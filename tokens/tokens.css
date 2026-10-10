@@ -1,0 +1,43 @@
+/* REKA design tokens v1.0.0 (2026-10-10). Mirrors tokens.json. Dark-first. */
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&family=Poppins:wght@300;400;500;600;700&display=swap");
+
+:root {
+  color-scheme: dark;
+  --reka-orange: #FB9800;
+  --reka-orange-deep: #D97F00;
+  --reka-orange-alt: #F7941D;
+
+  --reka-paper: #0B0B0C;
+  --reka-paper-2: #161618;
+  --reka-mark-tile: #17142B;
+  --reka-void: #07090F;
+
+  --reka-ink: #F1F1F0;
+  --reka-ink-2: #B9B9BD;
+  --reka-ink-3: #86868C;
+  --reka-line: rgba(241, 241, 240, .1);
+
+  --reka-cyan: #46D6C8;
+  --reka-teal: #2BB3A3;
+  --reka-violet: #6D5AE0;
+  --reka-blue: #2B6CF0;
+
+  --reka-gradient: linear-gradient(150deg, color-mix(in oklch, #FB9800 90%, #fff), #D97F00);
+  --reka-rule: linear-gradient(90deg, transparent, color-mix(in oklch, #FB9800 70%, transparent), transparent);
+
+  --reka-font: 'Poppins', system-ui, sans-serif;
+  --reka-mono: 'JetBrains Mono', ui-monospace, monospace;
+  --reka-radius: 2px;
+}
+
+body { background: var(--reka-paper); color: var(--reka-ink); font-family: var(--reka-font); }
+
+/* the // section marker */
+.reka-marker { font: 500 .8125rem/1.4 var(--reka-mono); color: var(--reka-orange); text-transform: lowercase; }
+.reka-marker::before { content: "// "; }
+
+/* faint engineering grid */
+.reka-grid {
+  background-image: linear-gradient(rgba(255, 255, 255, .03) 1px, transparent 1px), linear-gradient(90deg, rgba(255, 255, 255, .03) 1px, transparent 1px);
+  background-size: 48px 48px;
+}
