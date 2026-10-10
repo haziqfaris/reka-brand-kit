@@ -26,14 +26,14 @@
 | W2 | **Autoware** | Page: "Autoware Foundation regional representative". ai-docs (hard rule 6): "Autoware Foundation member, never representative" | History research: member since 2024, building on Autoware since 2021 | "Autoware Foundation member" (the guidelines' own hard rule) (Q5) |
 | W3 | **Self-driving car** | "Malaysia's first self-driving car on open roads" (2016, CRETA) | Story draft: "Malaysia's first self-driving car" | Guidelines wording, with "on open roads". REKA-only claim. |
 | W4 | **Murata** | "2019 · Murata smart-city sensing partnership" | Story draft: naming Murata needs permission | Guidelines wording (it is a stated proof point) |
-| W5 | **Primary line** | "AI for the physical world." Supporting: "Born on Southeast Asian roads. Built for global operations." | reka.re playbook and live site: "Built for Progress." | **Guidelines.** "Built for Progress" may stay as a campaign line (Q6). |
+| W5 | **Primary line** | "AI for the physical world." Supporting: "Born on Southeast Asian roads. Built for global operations." | reka.re playbook and live site: "Built for Progress." | **Decided 10 Oct: guidelines.** "Built for Progress" stays as a campaign line. |
 | W6 | **Category claim** | "One of the very few independent commercial R&D companies in Southeast Asia building AI for the physical world" | reka.re: "Technology R&D and innovation partner" | Guidelines |
 
 ## Visual
 
 | # | Topic | Guidelines v1.0 | Other source | Use for now |
 |---|---|---|---|---|
-| V1 | **Public surface** | Public is **light-first**: `#F7F6F3` ground, `#1D1D1D` ink; dark (`#0B0B0C`) is for internal tools, brand materials, splash and HUD | Live reka.re is dark-first (`#0B0B0C`) | Guidelines for new work; the live site is a known gap (Q7) |
+| V1 | **Public surface** | Public is **light-first**: `#F7F6F3` ground, `#1D1D1D` ink; dark (`#0B0B0C`) is for internal tools, brand materials, splash and HUD | Live reka.re is dark-first (`#0B0B0C`) | **Decided 10 Oct: light-first.** reka.re moved to it in Phase 3 |
 | V2 | **Light background value** | Colour page lists "Light `#EDEFF2`"; ai-docs and dashboard spec use `#F7F6F3` | | `#F7F6F3` |
 | V3 | **HUD spin speed** | Page: about 46s; ai-docs: 12s | | Slow (46s) on brand pages; 12s only for small loaders |
 | V4 | **Corner shape** | Chamfer cuts, never border-radius (except 8px nav pills, avatars) | AntaraX uses rounded cards (its own identity) | Chamfer on REKA surfaces; rounded on AntaraX surfaces (Q8 for REKA-hosted AntaraX pages) |

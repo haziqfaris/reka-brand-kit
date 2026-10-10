@@ -2,6 +2,14 @@
 
 Newest first. Earlier strategy changes: `reference/strategy/` (playbook v0.3, amendments, RECONCILIATION).
 
+## 10 October 2026 (evening): reka.re Phase 3
+
+- **reka.re product pages stay, in AntaraX branding on REKA's theme.** /plexyz, /tinara, /antarax and /products describe the products as AntaraX products from REKA's research (October facts: PLExyz Grid and Crowd, Tinara as B2B intelligence, AntaraX as the product line) and link to antarax.ai. They show the AntaraX mark and family colours on REKA's light surface with chamfer cuts.
+- **Public surface is light-first** (guidelines V1): `#F7F6F3` ground, `#1D1D1D` ink, `#E65D01` for orange text on light. Dark (`#0B0B0C`) stays for the hero, the Lab, the nav, the footer and calls to action. Calls to action are dark with one orange button, not full orange bands.
+- **Primary line: "AI for the physical world."** It is the home page headline. "Built for Progress" stays as a campaign line (the /about/progress page, the footer).
+- **Method: SEE → PROVE → BUILD → ADVANCE** replaces the six stages (Diagnose to Run) on reka.re.
+- reka.re now carries the four divisions (About and the footer), "recognised" for Frost & Sullivan, and "Malaysia's first self-driving car on open roads" wherever the 2016 car is named.
+
 ## 10 October 2026
 
 - **REKA Brand Guidelines v1.0 adopted as the master** for the REKA brand kit: `brand-guidelines.html` at the repository root, its briefs in `ai-docs/`, its assets in `assets/`. Conflicts with later product decisions are listed in 01 Reconciliation until the guidelines are updated.

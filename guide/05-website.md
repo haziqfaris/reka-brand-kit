@@ -4,7 +4,7 @@ Source: `haziqfaris/reka.re`. Design brief: [`ai-docs/reka-landing-page-brief.md
 
 ## Current state (10 October 2026)
 
-- The main site is **one HTML file** (`reka-site-full.html`, about 555KB) with hash sections (#about, #managed, #antarax, #careers, #legal and others), on Cloudflare Pages.
+- The main site is **multi-page** since 10 October 2026: 24 pages with their own addresses (`/about/`, `/services/managed-ai/`, …), built from `src/` by `build.mjs` and deployed to Cloudflare Pages by GitHub Actions. Old hash links (`reka.re/#about`) redirect to the page. The old WordPress blog and press (2016 to 2024) are back at their original addresses (`/blog/`, `/press/archive/`).
 - **Yara** has separate pages at `/yara/` and `/yara/how-it-works/` (the benchmark for layman, cut-to-the-chase product pages), with an assessment that emails holla@reka.re through the `reka-yara` Worker.
 - reka.re hosts About, story, careers and legal for **both** REKA and AntaraX; antarax.ai links here.
 
@@ -29,6 +29,8 @@ Hero → commercial line → assessment CTA → objections (already have a team,
 OWN / STEAL / GAP / EMERGING territories. Canonical answer assets: direct answer → explanation → decision framework → economics → examples → alternatives → FAQ → proof → sources → assessment. Every page: unique title and description, Organization JSON-LD (REKA as parent of AntaraX), FAQPage where there is an FAQ, sitemap with lastmod, llms.txt.
 
 ## Known gaps to fix on the live site
+
+**Closed in Phase 3 (10 October 2026):** light-first surface, "AI for the physical world" as the lead line, the four divisions on About and in the footer, the meta description, and SEE → PROVE → BUILD → ADVANCE in place of the six stages. reka.re is also multi-page now (Phase 1). The list below is kept for the record.
 
 - The guidelines make public surfaces **light-first** (`#F7F6F3`); the live site is dark-first.
 - The primary line should be **"AI for the physical world."** (guidelines); the site leads with "Built for Progress."
