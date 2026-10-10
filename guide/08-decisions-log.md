@@ -4,6 +4,7 @@ Newest first. Earlier strategy changes: `reference/strategy/` (playbook v0.3, am
 
 ## 10 October 2026
 
+- **reka.re becomes multi-page** once the AntaraX work is finished; the plan comes first (direction in 07).
 - **Brand kits split:** REKA and AntaraX each have their own brand kit repository, the reference for all development and marketing.
 - **Managed AI runs the AntaraX closed pilots.** Frame, PLExyz Crowd, Angka, Tinara, Loom and Motion are offered as closed pilots run by REKA's Managed AI.
 - **Company pages:** About, careers and legal for AntaraX live on reka.re. AntaraX keeps its own product story at antarax.ai/story; the full REKA story belongs on reka.re.
