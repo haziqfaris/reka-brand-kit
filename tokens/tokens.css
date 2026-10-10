@@ -1,43 +1,59 @@
-/* REKA design tokens v1.0.0 (2026-10-10). Mirrors tokens.json. Dark-first. */
-@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&family=Poppins:wght@300;400;500;600;700&display=swap");
+/* REKA design tokens v1.0.0, transcribed from brand-guidelines.html (the master). Change the guidelines first. */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap");
 
 :root {
-  color-scheme: dark;
-  --reka-orange: #FB9800;
-  --reka-orange-deep: #D97F00;
-  --reka-orange-alt: #F7941D;
+  /* orange: the one official orange, plus its highlight and secondary */
+  --c-brand: #FB9800;
+  --c-brand-hi: #FFB23E;
+  --c-brand-dk: #E65D01;
 
-  --reka-paper: #0B0B0C;
-  --reka-paper-2: #161618;
-  --reka-mark-tile: #17142B;
-  --reka-void: #07090F;
+  /* public surfaces (light-first) */
+  --c-light-bg: #F7F6F3;
+  --c-light-panel: #FFFFFF;
+  --c-light-border: #E5E4E1;
+  --c-ink: #1D1D1D;
+  --c-ink-2: #565656;
+  --c-ink-3: #9A9A9A;
 
-  --reka-ink: #F1F1F0;
-  --reka-ink-2: #B9B9BD;
-  --reka-ink-3: #86868C;
-  --reka-line: rgba(241, 241, 240, .1);
+  /* internal / dark surfaces */
+  --c-dark-0: #0B0B0C;
+  --c-dark-1: #161618;
+  --c-dark-2: #1D1D20;
+  --c-dark-3: #26262C;
+  --c-dark-ink: #F1F1F0;
+  --c-dark-ink-2: #B9B9BD;
+  --c-dark-mute: #76767C;
 
-  --reka-cyan: #46D6C8;
-  --reka-teal: #2BB3A3;
-  --reka-violet: #6D5AE0;
-  --reka-blue: #2B6CF0;
+  --c-stripe-cream: #F2E8D5;
 
-  --reka-gradient: linear-gradient(150deg, color-mix(in oklch, #FB9800 90%, #fff), #D97F00);
-  --reka-rule: linear-gradient(90deg, transparent, color-mix(in oklch, #FB9800 70%, transparent), transparent);
+  /* division families: light, mid, primary, dark */
+  --harmonik-light: #C8BDE8; --harmonik-mid: #865ACE; --harmonik: #6040CC; --harmonik-dark: #281B4F;
+  --kinetik-light: #BAE4E1;  --kinetik-mid: #6AD1BF;  --kinetik: #1AB89C;  --kinetik-dark: #063028;
+  --heuristik-light: #6AAEFF; --heuristik-mid: #0496FF; --heuristik: #1268F7; --heuristik-dark: #16366B; --heuristik-sidebar: #0D2850;
+  --esoterik-light: #CAB9C7; --esoterik-mid: #8D6885; --esoterik: #501643; --esoterik-dark: #2D0A22;
 
-  --reka-font: 'Poppins', system-ui, sans-serif;
-  --reka-mono: 'JetBrains Mono', ui-monospace, monospace;
-  --reka-radius: 2px;
+  /* type */
+  --ui: 'Poppins', system-ui, sans-serif;
+  --mono: 'JetBrains Mono', ui-monospace, monospace;
+
+  /* motion */
+  --ease: cubic-bezier(.2, .85, .2, 1);
 }
 
-body { background: var(--reka-paper); color: var(--reka-ink); font-family: var(--reka-font); }
+/* chamfer cuts, not border-radius */
+.chamfer-7  { clip-path: polygon(7px 0, calc(100% - 7px) 0, 100% 7px, 100% calc(100% - 7px), calc(100% - 7px) 100%, 7px 100%, 0 calc(100% - 7px), 0 7px); }
+.chamfer-9  { clip-path: polygon(9px 0, calc(100% - 9px) 0, 100% 9px, 100% calc(100% - 9px), calc(100% - 9px) 100%, 9px 100%, 0 calc(100% - 9px), 0 9px); }
+.chamfer-12 { clip-path: polygon(12px 0, calc(100% - 12px) 0, 100% 12px, 100% calc(100% - 12px), calc(100% - 12px) 100%, 12px 100%, 0 calc(100% - 12px), 0 12px); }
+.chamfer-frame { clip-path: polygon(0 0, calc(100% - 24px) 0, 100% 24px, 100% 100%, 0 100%); }
 
-/* the // section marker */
-.reka-marker { font: 500 .8125rem/1.4 var(--reka-mono); color: var(--reka-orange); text-transform: lowercase; }
-.reka-marker::before { content: "// "; }
+/* dot grid texture */
+.dots-light { background-image: radial-gradient(circle, rgba(0, 0, 0, .06) 1px, transparent 1px); background-size: 20px 20px; }
+.dots-dark  { background-image: radial-gradient(circle, rgba(255, 255, 255, .042) 1px, transparent 1px); background-size: 20px 20px; }
 
-/* faint engineering grid */
-.reka-grid {
-  background-image: linear-gradient(rgba(255, 255, 255, .03) 1px, transparent 1px), linear-gradient(90deg, rgba(255, 255, 255, .03) 1px, transparent 1px);
-  background-size: 48px 48px;
-}
+/* mono label */
+.label { font: 500 .68rem/1 var(--mono); text-transform: uppercase; letter-spacing: .12em; }
+
+/* the public stripe as a repeating band */
+.stripe-public { background: url('../assets/reka-pubstripe-tile.svg') repeat-x center / auto 100%; }
+
+@media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation: none !important; transition: none !important; } }

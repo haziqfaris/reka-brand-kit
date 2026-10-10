@@ -1,17 +1,17 @@
 # Agent rules for the REKA brand kit
 
-This repository is the **source of truth for the REKA brand**: positioning, services, story and facts, voice and claims, visual identity, Seth Linton and website conventions. Work in `haziqfaris/reka.re` and any REKA material should follow it. AntaraX has its own kit (`haziqfaris/AntaraX-brand-kit`); the boundary between the two is in `guide/01-positioning.md`.
+This repository is the **source of truth for the REKA brand**. `brand-guidelines.html` is the master; `ai-docs/` are its exports; `tokens/` transcribes its values; `guide/` covers what it does not and records where later decisions differ. AntaraX has its own kit (`haziqfaris/AntaraX-brand-kit`).
 
-## When working in this repository
+## Before any REKA work, in any repository
 
-- Change the guide only for an owner decision or a factual correction, and log the decision in `guide/08-decisions-log.md` in the same change.
-- Unresolved items go in `guide/09-open-questions.md`.
+- Read `ai-docs/REKA_UNIVERSAL_BRIEF.md`, plus the brief for the task (colours, design language, typography, UI components, voice, product families, landing page, stripe).
+- Read `guide/01-reconciliation.md` before stating anything about products, divisions, proof points or colours: it says where the October 2026 decisions override the June guidelines.
+- Follow the hard copy rules: no em dashes; no currency figures; flag illustrative figures "(illustrative)"; "Malaysia's first", never "Southeast Asia's first"; "Founder", never CEO; no fabricated metrics, deployments or partnerships.
+- Use only the official assets in `assets/`. Never redraw, recolour, rotate, stretch or add effects to the mark.
+
+## When changing this repository
+
+- **Edit `brand-guidelines.html` first**, then re-export or update the matching file in `ai-docs/`, then `tokens/`. Never edit an ai-doc so that it disagrees with the guidelines.
+- Do not change `brand-guidelines.html` content without an owner decision. Log every decision in `guide/06-decisions-log.md` with its date; put unresolved items in `guide/07-open-questions.md`; when a conflict in `guide/01-reconciliation.md` is settled, remove its row.
 - Keep `tokens/tokens.json` and `tokens/tokens.css` in step.
-- Facts about REKA's history must come from `guide/03-story-and-facts.md`; anything marked "to confirm" there is not publishable yet.
 - Do not edit `reference/` to match the guide.
-
-## When working elsewhere for REKA
-
-- Read the relevant guide pages before changing copy, layout, colour or naming.
-- Never invent customers, metrics, awards, partnerships, case-study results or technical claims (see `guide/04-voice-and-claims.md`).
-- Seth Linton is used only as `guide/06-seth-linton.md` allows.

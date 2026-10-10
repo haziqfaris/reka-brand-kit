@@ -1,9 +1,10 @@
-# 08 Decisions log
+# 06 Decisions log
 
 Newest first. Earlier strategy changes: `reference/strategy/` (playbook v0.3, amendments, RECONCILIATION).
 
 ## 10 October 2026
 
+- **REKA Brand Guidelines v1.0 adopted as the master** for the REKA brand kit: `brand-guidelines.html` at the repository root, its briefs in `ai-docs/`, its assets in `assets/`. Conflicts with later product decisions are listed in 01 Reconciliation until the guidelines are updated.
 - **reka.re becomes multi-page** once the AntaraX work is finished; the plan comes first (direction in 07).
 - **Brand kits split:** REKA and AntaraX each have their own brand kit repository, the reference for all development and marketing.
 - **Managed AI runs the AntaraX closed pilots.** Frame, PLExyz Crowd, Angka, Tinara, Loom and Motion are offered as closed pilots run by REKA's Managed AI.
@@ -13,6 +14,10 @@ Newest first. Earlier strategy changes: `reference/strategy/` (playbook v0.3, am
 - **Mole** is the event-technology collaborator (mole.is, sense.mole.is).
 - **Shared blog:** recommended at reka.re/blog (not yet confirmed).
 - **Staging Worker** `antarax-ai-staging` is to be deleted (owner's Cloudflare action).
+
+## June 2026
+
+- REKA Brand Guidelines v1.0 and its ai-docs exports (positioning "AI for the physical world", four divisions, colour system, Poppins and JetBrains Mono, chamfer cuts, HUD graphic language, stripes, dashboard system).
 
 ## 9 October 2026
 

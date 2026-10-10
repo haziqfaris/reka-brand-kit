@@ -1,6 +1,6 @@
-# 07 Website (reka.re)
+# 05 Website (reka.re)
 
-Source: `haziqfaris/reka.re`. Strategy detail: [`reference/strategy/WEBSITE_PLAYBOOK.md`](../reference/strategy/WEBSITE_PLAYBOOK.md) (v0.3).
+Source: `haziqfaris/reka.re`. Design brief: [`ai-docs/reka-landing-page-brief.md`](../ai-docs/reka-landing-page-brief.md) (colours, type, layout, copy rules for the marketing site) and [`ai-docs/reka-stripe-web.md`](../ai-docs/reka-stripe-web.md). Strategy detail: [`reference/strategy/WEBSITE_PLAYBOOK.md`](../reference/strategy/WEBSITE_PLAYBOOK.md) (v0.3).
 
 ## Current state (10 October 2026)
 
@@ -11,9 +11,9 @@ Source: `haziqfaris/reka.re`. Strategy detail: [`reference/strategy/WEBSITE_PLAY
 ## Direction
 
 1. **Move to multi-page with clean URLs** (e.g. /about, /story, /managed-ai, /work, /careers, /legal), keeping hash links working as redirects. Each page then stands as its own landing page for search and AI answers. (antarax.ai has already moved.)
-2. **REKA story page** from [03](03-story-and-facts.md), in the engineering-drawing style.
+2. **REKA story page** from [02](02-story-and-facts.md), in the guidelines' HUD graphic language.
 3. **AntaraX pages on reka.re:** an AntaraX intro, the launch announcement and press page, linking to antarax.ai.
-4. **reka.re/<product> marketing pages** in the style set in [05](05-visual-identity.md).
+4. **reka.re/<product> marketing pages:** AntaraX branding (the A, family colour, product name and one-liner) on REKA's theme, with a bit of the REKA orange gradient (owner, 10 October). Note the guidelines make public REKA surfaces light-first (`#F7F6F3`) with chamfer cuts; whether these pages are light or dark is open (07).
 5. **Shared blog at reka.re/blog** (recommended: a subfolder, not a subdomain, so authority accrues to one domain), covering REKA and AntaraX.
 
 ## Navigation (playbook)
@@ -30,5 +30,9 @@ OWN / STEAL / GAP / EMERGING territories. Canonical answer assets: direct answer
 
 ## Known gaps to fix on the live site
 
+- The guidelines make public surfaces **light-first** (`#F7F6F3`); the live site is dark-first.
+- The primary line should be **"AI for the physical world."** (guidelines); the site leads with "Built for Progress."
+- The site footer and divisions should follow the guidelines (Harmonik, Kinetik, Heuristik, Esoterik).
+
 - The meta description lists "Products PLExyz, Tinara, and AntaraX"; under the graduation rule REKA links to AntaraX products rather than selling them. Rewrite it.
-- The site describes six stages (Diagnose → Run) while the playbook says SEE → PROVE → BUILD → ADVANCE; pick one (see 09).
+- The site describes six stages (Diagnose → Run) while the playbook says SEE → PROVE → BUILD → ADVANCE; pick one (see 07).
