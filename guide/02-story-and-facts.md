@@ -10,7 +10,7 @@ The full draft is [`reference/content/REKA_STORY.md`](../reference/content/REKA_
 | 2014 | Focus moves to technology | Founder-confirmed |
 | 2014–2015 | Hands-on training: web, electronics (Raspberry Pi, Arduino), IoT, mobile (PhoneGap, AppDroid) | Founder-confirmed |
 | 2016 | Early AI: CNNs, optimisation, image processing, DSP | Founder-confirmed |
-| 2016 | **Malaysia's first self-driving car on open roads** (project **CRETA**): a retrofit kit on REKA's own controller board **RIG** (Reka Innovation Gear) with off-the-shelf cameras, radar, laser and GPS; drove between Kuala Lumpur and Melaka with no one in the driver's seat by the end of 2016 | Founder-confirmed; direction and car model to confirm |
+| 2016 | **Malaysia's first self-driving car on open roads** (project **CRETA**): a retrofit kit on REKA's own controller board **RIG** (Reka Innovation Gear) with off-the-shelf cameras, radar, laser and GPS; drove from Melaka to Kuala Lumpur with no one in the driver's seat by the end of 2016 | Founder-confirmed (direction: Melaka to KL, 10 Oct); car model to confirm |
 | 2017 | Becomes **REKA Inisiatif Sdn Bhd**; the public rides in the car at the Malaysia Autoshow 2017 | Confirmed |
 | 2018–2021 | Main effort moves to software automation; government ties across Southeast Asia; frameworks for deploying autonomous vehicles quickly | Founder-confirmed; names to confirm |
 | 2020–2021 | Pandemic: automation, RPA and robotics keep companies running remotely (UMW Industries and Murata Electronics among others) | Names need permission |
@@ -41,5 +41,5 @@ From design studio, to teaching every tool, to a self-driving car that forced de
 2. Pandemic work: exact years and one plain example per company.
 3. Which governments or agencies, and whether they may be named; whether the AV deployment frameworks are public.
 4. Whether to mention the 2019 SERV Technology acquisition (confirmed by PitchBook).
-5. KL–Melaka trip direction (REKA sources say Melaka to KL; press says KL to Melaka) and the car (Proton Waja or Perdana).
+5. The car on the 2016 drive (Proton Waja or Perdana). The direction is settled: **Melaka to KL** (founder, 10 October 2026); press accounts that say KL to Melaka are wrong on this point.
 6. Frost & Sullivan: "recognised" or "award" (01, W1).

@@ -41,7 +41,7 @@ In 2016 the team moved into early artificial intelligence:
 ### 4. 2016: Malaysia's first self-driving car
 - **Start:** in September 2016 REKA began building its own self-driving technology.
 - **Kit:** a retrofit kit for an ordinary car, run by a controller board REKA designed itself, called RIG (Reka Innovation Gear), with off-the-shelf cameras, radar, laser and GPS.
-- **First test:** by the end of 2016 the car drove between Kuala Lumpur and Melaka with no one in the driver's seat.
+- **First test:** by the end of 2016 the car drove from Melaka to Kuala Lumpur with no one in the driver's seat.
 - **Name:** REKA called the project CRETA.
 
 Suggested REKA wording: "In 2016 we built Malaysia's first self-driving car." This is REKA's own claim, so do not use it on AntaraX.
@@ -109,5 +109,5 @@ The autonomous-vehicle work never stopped:
 2. **Pandemic work:** exact years, and what was automated (one plain example per company helps).
 3. **Government ties:** which governments or agencies, and whether they can be named. Name the AV deployment frameworks if they are public.
 4. **2019 SERV Technology acquisition:** confirmed by PitchBook. Decide whether the story mentions it.
-5. **Kuala Lumpur–Melaka trip:** direction. REKA's own sources say Melaka to KL; press says KL to Melaka. Also which car: Proton Waja or Perdana.
+5. **Melaka to Kuala Lumpur trip:** direction settled by the founder on 10 October 2026 (Melaka to KL). Still open: which car, Proton Waja or Perdana.
 6. **Frost & Sullivan:** wording stays "recognised by Frost & Sullivan". Add the year and category only if they can be shown.

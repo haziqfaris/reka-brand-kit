@@ -4,6 +4,8 @@ Newest first. Earlier strategy changes: `reference/strategy/` (playbook v0.3, am
 
 ## 10 October 2026 (evening): reka.re Phase 3
 
+- **2016 drive direction: Melaka to Kuala Lumpur.** Press accounts saying KL to Melaka are wrong on this point; REKA's own 2023 decade post was also wrong. The car model is still open.
+- **reka.re home logo strip stays** as is: Murata, Perodua, MARii, Autoware, TIER IV.
 - **reka.re product pages stay, in AntaraX branding on REKA's theme.** /plexyz, /tinara, /antarax and /products describe the products as AntaraX products from REKA's research (October facts: PLExyz Grid and Crowd, Tinara as B2B intelligence, AntaraX as the product line) and link to antarax.ai. They show the AntaraX mark and family colours on REKA's light surface with chamfer cuts.
 - **Public surface is light-first** (guidelines V1): `#F7F6F3` ground, `#1D1D1D` ink, `#E65D01` for orange text on light. Dark (`#0B0B0C`) stays for the hero, the Lab, the nav, the footer and calls to action. Calls to action are dark with one orange button, not full orange bands.
 - **Primary line: "AI for the physical world."** It is the home page headline. "Built for Progress" stays as a campaign line (the /about/progress page, the footer).

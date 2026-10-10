@@ -174,7 +174,7 @@ This settles the 2013 vs 2014 founding conflict in section 4. The full narrative
 | Topic | Version A | Version B |
 |---|---|---|
 | Founding year | 2013 (reka.re; REKA intro deck on MIDA) | 2014 (paultan Dec 2017; reka.re/reka-x-serv press release; PitchBook). **Resolved by the founder, 2026-10-09:** founded 2013 as a graphics and web design company; turned to technology in 2014. The 2014 sources likely date the technology focus. |
-| Trip direction | Melaka → KL (reka.re; REKA 2017 press release) | KL → Melaka (paultan 2017; CIO.com) |
+| Trip direction | Melaka → KL (reka.re; REKA 2017 press release) | KL → Melaka (paultan 2017; CIO.com). **Resolved by the founder, 2026-10-10: Melaka to KL.** |
 | 2016 test vehicle | Proton Waja (paultan; Says) | Proton Perdana (MIDA article); Proton Wira + Perdana (2019 academic paper) |
 | Autonomy level | Level 4 target (CRETA blog) | "Category 3" (paultan); Level 2–3 kit by 2020 (CRETA blog); Level 3 (Says; MIDA) |
 | Readiness | 20% (REKA press release 2017) | ~30% (deenamik blog 2017) |
