@@ -2,6 +2,11 @@
 
 Newest first. Earlier strategy changes: `reference/strategy/` (playbook v0.3, amendments, RECONCILIATION).
 
+## 10 October 2026 (night): Ripple and Loom
+
+- **Intelligent Automation is built on AntaraX Ripple**, not Loom. Yara takes work from manual to digital; Ripple automates it from there.
+- **AntaraX Loom is data synthesis:** data from many sources woven into one picture, and synthetic data where real data is short or sensitive. This is close to the guidelines' original "Loom (ingest)". Full record in the AntaraX kit's decisions log.
+
 ## 10 October 2026 (evening): reka.re Phase 3
 
 - **2016 drive direction: Melaka to Kuala Lumpur.** Press accounts saying KL to Melaka are wrong on this point; REKA's own 2023 decade post was also wrong. The car model is still open.
