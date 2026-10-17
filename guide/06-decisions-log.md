@@ -2,6 +2,14 @@
 
 Newest first. Earlier strategy changes: `reference/strategy/` (playbook v0.3, amendments, RECONCILIATION).
 
+## 17 October 2026: REKA Almanac typefaces
+
+- **The REKA Almanac may use typefaces beyond Poppins and JetBrains Mono.** The Almanac (`haziqfaris/reka-almanac-blog`) is a fiction blog in which two keepers record each topic: Luma Raia (hopeful) and Nyx (doubting), who overwrites her by hand. Its two hands need two materials:
+  - **Luma Raia:** Cinzel, Cinzel Decorative and Cormorant Garamond, on aged parchment, with square double-ruled frames rather than chamfer cuts.
+  - **Nyx:** Rock Salt, a handwritten face, in `#FB9800` on near-black.
+- **REKA stays underneath:** JetBrains Mono for labels, chamfer cuts on REKA surfaces, the HUD, the three forces of the mark, and only official assets, unaltered. The Almanac's runes are built from the parts of the official and public stripes and used as single glyphs. The stripes themselves are tiled as `ai-docs/reka-stripe-web.md` shows.
+- **Scope:** the Almanac only. Every other REKA site, document, deck, product UI and campaign keeps Poppins and JetBrains Mono, and `brand-guidelines.html` is unchanged.
+
 ## 10 October 2026 (night): Ripple and Loom
 
 - **Intelligent Automation is built on AntaraX Ripple**, not Loom. Yara takes work from manual to digital; Ripple automates it from there.
