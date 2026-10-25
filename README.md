@@ -20,7 +20,7 @@ assets/png/             2048px PNG renders of the mark, wordmark, lockup, HUD an
 assets/ui/              the six product dashboard mock-ups from the Digital UI section
 assets/web/             the files the live reka.re currently serves (favicon tile, touch icon, site lockup)
 assets/seth/            Seth Linton expression SVGs
-tokens/                 tokens.json and tokens.css, transcribed from the guidelines
+tokens/                 tokens.json and tokens.css, transcribed from the guidelines; site.css and site.json, exported from the live website (the source)
 guide/                  what the guidelines don't cover yet, and where they disagree with later decisions
 reference/              Seth's character reference, the reka.re playbook, the story draft and history research
 ```
@@ -48,6 +48,6 @@ reference/              Seth's character reference, the reka.re playbook, the st
 
 ## Known disagreements
 
-The guidelines (June 2026) predate the October portfolio decisions: PLExyz and Tinara now sit in AntaraX, AntaraX is a product line with six families, and some proof wording differs. **[guide/01 Reconciliation](guide/01-reconciliation.md)** lists every point and what to use until the guidelines are updated.
+The guidelines (June 2026) predate the October portfolio decisions: PLExyz and Tinara now sit in AntaraX, AntaraX is a product line with six families, and some proof wording differs. **[guide/01 Reconciliation](guide/01-reconciliation.md)** lists every point and what to use until the guidelines are updated. The website has also grown its own patterns and tokens since June: **[guide/08 The website system](guide/08-website-system.md)**.
 
 Version 1.0 · Owner: REKA Inisiatif, brand and comms · Asset requests: holla@reka.re
