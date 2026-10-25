@@ -51,3 +51,7 @@ reference/              Seth's character reference, the reka.re playbook, the st
 The guidelines (June 2026) predate the October portfolio decisions: PLExyz and Tinara now sit in AntaraX, AntaraX is a product line with six families, and some proof wording differs. **[guide/01 Reconciliation](guide/01-reconciliation.md)** lists every point and what to use until the guidelines are updated.
 
 Version 1.0 · Owner: REKA Inisiatif, brand and comms · Asset requests: holla@reka.re
+
+## Other REKA frameworks
+
+How REKA Brand Kit fits with the other REKA frameworks, and who governs what: [FRAMEWORKS.md](FRAMEWORKS.md).
