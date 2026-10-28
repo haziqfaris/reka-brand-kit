@@ -1,0 +1,66 @@
+/* REKA website tokens, exported 2026-10-25 from reka.re prototype/reka-on-clay/assets/base.css by scripts/export-brand-tokens.mjs.
+   Do not edit here: change base.css on the website and export again. Values are resolved (no var() chains). */
+:root{
+  /* colour */
+  --white:#F7F6F3;
+  --black:#1D1D1D;
+  --ink:#1D1D1D;
+  --muted:#565656;
+  --oat:#ECEAE4;
+  --oat-btn:#E3E1DA;
+  --cream:#F7F6F3;
+  --hero:#161618;
+  --lime:#FB9800;
+  --sky:#1AB89C;
+  --sky-200:#C8ECE3;
+  --blue:#E65D01;
+  --blue-bg:#EAF1FE;
+  --navy:#0B0B0C;
+  --teal-t:#0A7562;
+  --rust:#B53D0A;
+  --peach-bg:#FFF2DF;
+  --olive:#77766F;
+  --lime-bg:#FFF2DF;
+  --magenta:#6040CC;
+  --pink-bg:#F7EEF4;
+  --lilac-bg:#F1EDFB;
+  --lilac-t:#4F33B3;
+  --pom:#FEDFB0;
+  --plum:#0B0B0C;
+  --brand:#FB9800;
+  --brand-text:#E65D01;
+  --brand-tint:#FBF4EA;
+  --line:#E5E4E1;
+  --line-2:#D3D1CC;
+  --muted-2:#7B7974;
+  --hairline:#E6E3DC;
+  --hairline-cool:#E6E8EC;
+  --stone:#E9E6DF;
+  --stone-2:#E0DEDC;
+  /* division */
+  --harmonik:#6040CC;
+  --harmonik-ink:#4F33B3;
+  --harmonik-bg:#F1EDFB;
+  --harmonik-2:#E3DBF8;
+  --heuristik:#1268F7;
+  --heuristik-ink:#0B55D0;
+  --heuristik-bg:#EAF1FE;
+  --heuristik-2:#D4E3FD;
+  --kinetik:#1AB89C;
+  --kinetik-ink:#0A7562;
+  --kinetik-bg:#E4F6F1;
+  --kinetik-2:#C8ECE3;
+  --esoterik:#8D6885;
+  --esoterik-ink:#501643;
+  --esoterik-bg:#F7EEF4;
+  --esoterik-2:#EDDCE7;
+  --orange-bg:#FFF2DF;
+  --orange-2:#FEDFB0;
+  /* type */
+  --sans:Poppins,system-ui,'Helvetica Neue',Arial,sans-serif;
+  --mono:'JetBrains Mono',ui-monospace,Menlo,monospace;
+  /* motion */
+  --ease:cubic-bezier(.22,1,.36,1);
+  /* layout */
+  --gut:clamp(24px,3.4vw,48px);
+}
