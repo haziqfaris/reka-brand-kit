@@ -1,6 +1,6 @@
 # How REKA Brand Kit fits with the other REKA frameworks
 
-REKA Brand Kit owns how REKA looks and talks: mark, orange, type, voice, copy rules. This page is generated the same way in every REKA framework: it says who governs what, what each framework owns, and how REKA Brand Kit relates to each one. Checked on 25 October 2026.
+REKA Brand Kit owns how REKA looks and talks: mark, orange, type, voice, copy rules. This page is generated the same way in every REKA framework: it says who governs what, what each framework owns, and how REKA Brand Kit relates to each one. Checked on 30 October 2026.
 
 ## Who governs what
 
@@ -37,9 +37,9 @@ From RESAM's [repository map](https://github.com/haziqfaris/RESAM/blob/main/docs
 
 ## Kept in step
 
-Gaps found when the frameworks were compared on 25 October 2026:
+Gaps still open when the frameworks were rechecked on 30 October 2026:
 
 - Loom is described as orchestration or a closed pilot; Cebis Loom is now AntaraX's data product.
 - The copy rules ban em dashes, but several of the kit's own Markdown files use them.
 
-RESAM records every framework's version, stage and links in its [framework status](https://github.com/haziqfaris/RESAM/blob/main/docs/reference/framework-status.md), [connections](https://github.com/haziqfaris/RESAM/blob/main/docs/reference/connections.md) and [modules](https://github.com/haziqfaris/RESAM/blob/main/docs/reference/modules.md) pages (RESAM pull request 2). When this page and RESAM disagree, RESAM is updated first and this page follows.
+RESAM records every framework's version, stage and links in its [framework status](https://github.com/haziqfaris/RESAM/blob/main/docs/reference/framework-status.md), [connections](https://github.com/haziqfaris/RESAM/blob/main/docs/reference/connections.md) and [modules](https://github.com/haziqfaris/RESAM/blob/main/docs/reference/modules.md) pages. When this page and RESAM disagree, RESAM is updated first and this page follows.
