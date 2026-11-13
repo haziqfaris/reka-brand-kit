@@ -2,6 +2,13 @@
 
 Newest first. Earlier strategy changes: `reference/strategy/` (playbook v0.3, amendments, RECONCILIATION).
 
+## 13 November 2026: states, tints and surface steps (tokens 1.1.0)
+
+- **The kit owns REKA's state colours** (error, success, warning, each with a tint and, for warning, an ink), light and dark, the orange tint and its ink, the light surface steps 1 to 4, an outline for controls, and three dark steps (sunken, surface 3, surface 4). Owner: "Do all", on open question 17 and its recommendation. Added to `brand-guidelines.html` (Color, "States, tints and surface steps"), `ai-docs/reka-colors.md` and `tokens/` 1.1.0.
+- **Where a colour was close to one the kit already had, the kit's won:** the orange tint is reka.re's `#FFF2DF` (RESAM had `#FFF1DC`); secondary text is Ink 2 `#565656`; dividers are Line `#E5E4E1`; on dark, secondary text is Ink 2 `#B9B9BD`, outlines are Mute `#76767C` and dividers are `#26262C`. The one exception is the outline for controls: Ink 3 `#9A9A9A` is only 2.6:1 on the ground, under the 3:1 a control's border needs, so `#8A8A90` (3.2:1) is added.
+- **Checked:** every text colour against its own tint at WCAG AA or better (5.2:1 to 10.4:1).
+- **Who takes them:** RESAM's kickoff look takes them with its sync script (its backlog B-33). The diagram colours stay RESAM's.
+
 ## 17 October 2026: REKA Almanac typefaces
 
 - **The REKA Almanac may use typefaces beyond Poppins and JetBrains Mono.** The Almanac (`haziqfaris/reka-almanac-blog`) is a fiction blog in which two keepers record each topic: Luma Raia (hopeful) and Nyx (doubting), who overwrites her by hand. Its two hands need two materials:

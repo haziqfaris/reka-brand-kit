@@ -67,6 +67,30 @@
 | Primary | `#501643` | Main accent |
 | Dark / sidebar | `#2D0A22` | Dark nav sidebar |
 
+## States, tints and surface steps (tokens 1.1.0, 13 November 2026)
+For interfaces and documents that show a state. Each text colour is checked against its own tint (WCAG AA or better). Not for marketing colour.
+
+| Token | Light | Dark | Use |
+|---|---|---|---|
+| Error | `#B42318` | `#F7867C` | Text and icons for a fault (5.8:1 and 7.1:1 on the tint) |
+| Error tint | `#FEECEB` | `#2E1312` | Behind an error message |
+| Success | `#067647` | `#5FD49A` | Text and icons for done (5.2:1 and 8.4:1) |
+| Success tint | `#E7F8EF` | `#10291C` | Behind a success message |
+| Warning | `#B54708` | `#F7B15A` | Icons and strokes for attention; dark text on its tint 8.9:1 |
+| Warning tint | `#FEF4E6` | `#2B1D0A` | Behind a warning |
+| Warning ink | `#93370D` | (Warning) | Text on the light warning tint (6.9:1) |
+| Orange tint | `#FFF2DF` | `#2A1E0B` | The key path and highlighted rows (the light value is reka.re's) |
+| Orange tint ink | `#6B3F00` | `#FFC46B` | Text on the orange tint (8.1:1 and 10.4:1) |
+
+| Surface step | Light | Dark |
+|---|---|---|
+| Sunken | (Background) | `#131315` |
+| Surface 1 | `#FBFAF8` | (Surface) |
+| Surface 2 | `#F2F0EB` | (Surface 2) |
+| Surface 3 | `#EFEDE8` | `#232327` |
+| Surface 4 | `#E4E1D9` | `#2C2C31` |
+| Outline | `#8A8A90` (3.2:1, for controls) | (Mute) |
+
 ## Secondary / internal colours
 | Name | Hex | Use |
 |---|---|---|

@@ -1,4 +1,4 @@
-/* REKA design tokens v1.0.0, transcribed from brand-guidelines.html (the master). Change the guidelines first. */
+/* REKA design tokens v1.1.0, transcribed from brand-guidelines.html (the master). Change the guidelines first. */
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap");
 
 :root {
@@ -25,6 +25,15 @@
   --c-dark-mute: #76767C;
 
   --c-stripe-cream: #F2E8D5;
+
+  /* orange tint, surface steps and outline (1.1.0) */
+  --c-brand-tint: #FFF2DF; --c-brand-tint-ink: #6B3F00; --c-brand-tint-dark: #2A1E0B; --c-brand-tint-ink-dark: #FFC46B;
+  --c-light-surface-1: #FBFAF8; --c-light-surface-2: #F2F0EB; --c-light-surface-3: #EFEDE8; --c-light-surface-4: #E4E1D9; --c-outline: #8A8A90;
+  --c-dark-sunken: #131315; --c-dark-4: #232327; --c-dark-5: #2C2C31;
+
+  /* states (1.1.0): light, then dark */
+  --c-error: #B42318; --c-error-tint: #FEECEB; --c-success: #067647; --c-success-tint: #E7F8EF; --c-warning: #B54708; --c-warning-tint: #FEF4E6; --c-warning-ink: #93370D;
+  --c-dark-error: #F7867C; --c-dark-error-tint: #2E1312; --c-dark-success: #5FD49A; --c-dark-success-tint: #10291C; --c-dark-warning: #F7B15A; --c-dark-warning-tint: #2B1D0A;
 
   /* division families: light, mid, primary, dark */
   --harmonik-light: #C8BDE8; --harmonik-mid: #865ACE; --harmonik: #6040CC; --harmonik-dark: #281B4F;

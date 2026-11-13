@@ -22,28 +22,3 @@ Decided 10 October 2026 and removed from this list: "Built for Progress" (campai
 14. **Blog:** confirm reka.re/blog.
 15. **Orange inside AntaraX products** (Frame uses `#FB9800`): allowed, or reserved for REKA?
 16. **Managed AI pricing:** published starting point, or quoted per engagement?
-
-## From other repositories
-
-17. **Status, container and dark tokens for REKA's look** (asked by RESAM, 13 November 2026, its backlog B-33). RESAM's
-    kickoff kit dresses REKA's own documents and client prototypes in REKA's look (`tools/kickoff/DESIGN.md` in RESAM).
-    Its 25 brand colours now come from this kit's `tokens/tokens.json` 1.0.0 and are checked against it. These 20 roles,
-    each with a light and a dark value, have no token here, so RESAM keeps them by hand. Should this kit own them? If
-    yes, add them to the guidelines first, then `tokens/`, and RESAM takes them with its sync script. The diagram colours
-    (the kinds of node and the blueprint plate) are not asked for: RESAM's drawing standard owns those.
-
-    | Role | Light (RESAM today) | Dark (RESAM today) |
-    |---|---|---|
-    | `error` / `error-container` / `on-error-container` | `#B42318` / `#FEECEB` / `#B42318` | `#F7867C` / `#2E1312` / `#F7867C` |
-    | `success` / `success-container` / `on-success-container` | `#067647` / `#E7F8EF` / `#067647` | `#5FD49A` / `#10291C` / `#5FD49A` |
-    | `warning` / `warning-container` / `on-warning-container` | `#B54708` / `#FEF4E6` / `#93370D` | `#F7B15A` / `#2B1D0A` / `#F7B15A` |
-    | `secondary-container` / `on-secondary-container` (the orange tint and its text) | `#FFF1DC` / `#6B3F00` | `#2A1E0B` / `#FFC46B` |
-    | `key-container` (the key path's tint) | `#FFF1DC` | `#2A1E0B` |
-    | `primary-container` | `#EFEDE8` | (from this kit: `internal.surface-2`) |
-    | `surface-container-low` / `-container` / `-high` / `-highest` | `#FBFAF8` / `#F2F0EB` / `#EFEDE8` / `#E4E1D9` | `#131315` / `#1D1D20` / `#232327` / `#2C2C31` |
-    | `on-surface-variant` (secondary text) | `#4A4A50` | `#B4B4B0` |
-    | `outline` / `outline-variant` | `#8A8A90` / `#DCD9D1` | `#6A6A70` / `#2C2C31` |
-
-    Recommended: yes for the status set and the dark surfaces, since every REKA surface that shows a state needs them;
-    take the values above as the starting point, checked for contrast in the guidelines. Note that the orange tint here
-    (`#FFF1DC`) is close to, but not, this kit's `--orange-bg` `#FFF2DF`: one of the two should give way.
