@@ -38,6 +38,7 @@
 | V3 | **HUD spin speed** | Page: about 46s; ai-docs: 12s | | Slow (46s) on brand pages; 12s only for small loaders |
 | V4 | **Corner shape** | Chamfer cuts, never border-radius (except 8px nav pills, avatars) | AntaraX uses rounded cards (its own identity) | Chamfer on REKA surfaces; rounded on AntaraX surfaces (Q8 for REKA-hosted AntaraX pages) |
 | V5 | **Retired colours** | `#0062FB` retired | The Frame app still uses `#0062FB` as its primary | Supports moving Frame to AntaraX blue (AntaraX kit, open question 3) |
+| V6 | **Stripe on documents** | Letterhead: official stripe flush right | Client reports (24 Nov 2026): along the bottom of every page, turned horizontal; vertical on the right of the cover only | Reports: bottom; letters: right. Settled when the guidelines gain a Reports page (07, Q17) |
 
 ## Copy rules that now apply to both brands
 

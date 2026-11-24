@@ -22,3 +22,4 @@ Decided 10 October 2026 and removed from this list: "Built for Progress" (campai
 14. **Blog:** confirm reka.re/blog.
 15. **Orange inside AntaraX products** (Frame uses `#FB9800`): allowed, or reserved for REKA?
 16. **Managed AI pricing:** published starting point, or quoted per engagement?
+17. **Reports page in the guidelines:** add the A4 client report layout decided on 24 November 2026 (06) to `brand-guidelines.html` and an ai-doc, with the dark-panel system and the verdict seal as components.

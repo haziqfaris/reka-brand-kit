@@ -2,6 +2,17 @@
 
 Newest first. Earlier strategy changes: `reference/strategy/` (playbook v0.3, amendments, RECONCILIATION).
 
+## 24 November 2026: A4 client reports
+
+From the first REKA Platform Audit issued to a client (RESAM D-90 to D-94). Owner decisions in session.
+
+- **The official stripe runs along the bottom of every page,** turned horizontal (`assets/reka-stripe-official.svg`, unaltered otherwise). **On the cover only, it stays vertical, flush right.** The guidelines' letterhead (stripe flush right) is unchanged for letters; see V6 in 01.
+- **The lockup appears in its original orange `#FB9800`,** never black, on light report pages.
+- **One dark-panel system** for verdicts, calls to action and promotions: near-black `#0B0B0C` with the guidelines' dot grid, one chamfer (top right), two orange corner brackets (top left, bottom right). Three layers only: dark panels, light paper cards, orange as an accent. Tags are rectangular in JetBrains Mono.
+- **The verdict seal** is built from HUD primitives (two rings, ring text, four ticks) on a dark panel, never from the HUD mark, which the guidelines keep off formal documents. A negative verdict uses the dark error colour `#F7867C`; the seal is tilted a few degrees. Keep it simple: the owner rejected a busier version with readouts, screws and hatch rails.
+- **Every page is A4,** portrait or landscape, and passes a layout check and an A4 print test before issue.
+- **Still to do:** add a "Reports" page to `brand-guidelines.html` (07, Q17).
+
 ## 13 November 2026: states, tints and surface steps (tokens 1.1.0)
 
 - **The kit owns REKA's state colours** (error, success, warning, each with a tint and, for warning, an ink), light and dark, the orange tint and its ink, the light surface steps 1 to 4, an outline for controls, and three dark steps (sunken, surface 3, surface 4). Owner: "Do all", on open question 17 and its recommendation. Added to `brand-guidelines.html` (Color, "States, tints and surface steps"), `ai-docs/reka-colors.md` and `tokens/` 1.1.0.
