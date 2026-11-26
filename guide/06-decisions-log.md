@@ -2,6 +2,10 @@
 
 Newest first. Earlier strategy changes: `reference/strategy/` (playbook v0.3, amendments, RECONCILIATION).
 
+## 26 November 2026: assessments as an offering
+
+- **REKA's assessments are sold as five report types** under 01 Advise (03, "Advise: assessments and audits"): Snapshot, Focused Review, Platform Audit, Verified Audit, Assured Audit, Level 1 to 5. The procedure is RESAM's (D-95). Names and scope are still being refined (RESAM B-36).
+
 ## 24 November 2026: A4 client reports
 
 From the first REKA Platform Audit issued to a client (RESAM D-90 to D-94). Owner decisions in session.

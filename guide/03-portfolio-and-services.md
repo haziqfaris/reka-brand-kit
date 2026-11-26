@@ -35,6 +35,20 @@ The guidelines list four services: Consulting / Advisory, Custom Build, Managed 
 
 The constant: "Whichever door, we sell return, not software." Method: see 07 (two versions exist).
 
+## Advise: assessments and audits
+
+Under **01 Advise**, REKA's assessments are sold as five report types, ranked by thoroughness (owner, 24 to 26 November 2026; RESAM D-90, D-95). Each report says its level on the cover and shows the client the others; each level names what the next one adds.
+
+| Level | Report | In one line |
+|---|---|---|
+| 1 | Snapshot | A fast health check of what is visible from outside and in the dependency list |
+| 2 | Focused Review | One area in depth: security, AI, data, or product and journeys |
+| 3 | Platform Audit | The whole platform read, scored against a declared bar and challenged before delivery |
+| 4 | Verified Audit | Everything in a Platform Audit, proven by testing a safe copy |
+| 5 | Assured Audit | Proof over time: controls watched in production, mapped to recognised standards |
+
+Copy rules: name the level and what it proves; never call a Level 1 to 3 report a penetration test or a certification; no prices here (quoted per engagement). Names and scope are still being refined (RESAM B-36).
+
 ## Managed AI
 
 > AI, run for you. You don't need an in-house AI team to get the benefits of AI. We host it, monitor it, improve it and keep it reliable: the models, the infrastructure and the ops, all on one predictable subscription.
